@@ -1,0 +1,36 @@
+
+
+
+body {
+
+ background-image:url("../images/phone.jpg");
+ background-repeat:no-repeat;
+ margin: 0px;
+ background-color:#52596b;
+
+ }
+
+ #stripes {
+
+ background-image:url("../images/stripes.png");
+ background-repeat:repeat-x;
+ max-width: 100%;
+
+}
+ #content {
+ 	margin-left: 150px;
+ 	margin-top: 150px;
+ 	width:400px;
+ }
+
+ .short_line {
+ 	width: 45px;
+ }
+ 
+h1 {
+	color:white;
+}
+.bodytext {
+	color:white;
+
+}
